@@ -5,4 +5,4 @@ Build:
 
 
 Run:
-    /opt/kafka_disk_exporter/KafkaDiskMonitor  -BrokerAddr="127.0.0.1:9292" -KafkaDataDir="/data/kafka/data/"
+    KafkaDiskMonitor  -BrokerAddr="127.0.0.1:9292" -KafkaDataDir="/data/kafka/data/"
